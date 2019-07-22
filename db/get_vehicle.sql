@@ -1,2 +1,2 @@
 SELECT * FROM vehicle
-WHERE miles = $1
+WHERE vehicle_id = $1
